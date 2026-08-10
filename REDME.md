@@ -59,3 +59,8 @@ No build step or server is strictly required:
 
 Your saved links will be kept in the browser's `localStorage` under the key `linkManager.links.v1`.
 
+
+Your saved links will be kept in the browser's `localStorage` under the key `linkManager.links.v1`.
+
+Your saved links will be kept in the browser's `localStorage` under the key `linkManager.links.v1`.
+
