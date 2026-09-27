@@ -322,7 +322,7 @@ git commit -m "Add new feature"
 
 5. Push the branch
 
-```bash
+bash
 git push origin feature/new-feature
 ```
 
