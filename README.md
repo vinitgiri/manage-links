@@ -220,9 +220,7 @@ localStorage
 
 Storage key:
 
-```text
-linkManager.links.v1
-```
+
 
 This means:
 
