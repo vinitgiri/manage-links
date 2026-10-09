@@ -121,9 +121,6 @@ Each saved link contains information such as:
 
 The data is stored in the browser's LocalStorage using:
 
-```text
-linkManager.links.v1
-```
 
 ### 4. Search
 
