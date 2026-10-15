@@ -187,7 +187,7 @@ You can also open the project in VS Code:
 
 ```bash
 code .
-```
+`
 
 Then open `index.html`.
 
