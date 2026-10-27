@@ -306,7 +306,7 @@ Contributions are welcome.
 
 ```bash
 git checkout -b feature/new-feature
-```
+```---
 
 3. Make your changes
 4. Commit your changes
