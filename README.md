@@ -49,7 +49,6 @@ manage-links/
 │   └── ui.js
 │
 └── .vscode/
-```
 
 ### File Description
 
