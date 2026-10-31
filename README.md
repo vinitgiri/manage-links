@@ -70,7 +70,7 @@ Enter a valid URL beginning with:
 
 ```text
 https://
-```
+`
 
 or
 
