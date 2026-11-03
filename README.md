@@ -114,9 +114,8 @@ Each saved link contains information such as:
   description: "Website description",
   domain: "example.com",
   favicon: "...",
-  createdAt: "..."
-}
-```
+  createdAt: "...
+`
 
 The data is stored in the browser's LocalStorage using:
 
