@@ -237,7 +237,7 @@ Used as the primary metadata extraction service.
 
 ```text
 https://jsonlink.io/
-```
+`
 
 ### Jina AI Proxy
 
