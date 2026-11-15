@@ -311,7 +311,7 @@ git checkout -b feature/new-feature
 
 ```bash
 git commit -m "Add new feature"
-```
+
 
 5. Push the branch
 
